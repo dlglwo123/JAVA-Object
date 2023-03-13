@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="60964e24-9008-4d61-9d93-852db69fbbf3" name="변경" comment="">
+      <change afterPath="$PROJECT_DIR$/Abstract/abstractEX.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collection/EnumEX.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collection/EnumEX1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collection/GenericEX.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collection/GenericEX1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collection/HashMapEX.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collection/HashSetEX.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collection/HashSetEx1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collection/HashTableEX.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collection/TreeSetEX.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collection/TreeSetEX1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Effective/AnnotationFile/Annotation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Effective/AnnotationFile/Annotation_Deprecated.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Effective/AnnotationFile/Annotation_FunctionalInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Effective/AnnotationFile/Annotation_Override.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Effective/AnnotationFile/Annotation_SuppressWarnings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Effective/AnnotationFile/Meta_annotation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Effective/Lambda/LambdaEX.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Effective/Lambda/Lambda_IsReturn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Effective/Lambda/Lambda_IsVariable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Effective/Lambda/Lambda_MethodInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Effective/Lambda/Lambda_NotReturnMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Effective/Lambda/Method_Reference.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Effective/Lambda/Method_Reference1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Effective/Lambda/NewFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Effective/StreamEX/CollectionStreamEX.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Effective/StreamEX/FinalStreamEX.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Effective/StreamEX/FinalStreamEX1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Effective/StreamEX/FinalStreamEX3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Effective/StreamEX/FinalStreamEX4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Effective/StreamEX/IntStreamEX.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Effective/StreamEX/MildleCalcStreamEX.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Effective/StreamEX/MildleCalcStreamEX1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Effective/StreamEX/MildleCalcStreamEX2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Effective/StreamEX/MildleCalcStreamEX3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Effective/StreamEX/MildleCalcStreamEX4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Effective/StreamEX/RandomStreamEX.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Effective/StreamEX/StreamCreator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Effective/StreamEX/StreamEX.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Effective/StreamEX/StreamEX1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Effective/StreamEX/finalStreamEX2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Encapsulation/EncapsulationExpain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Encapsulation/GetterSetterTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Encapsulation/ImportEX.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Encapsulation/pakageEX.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FileSystem/FileEX.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FileSystem/FileInputSystemEX.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FileSystem/FileReaderEX.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FileSystem/FileWriterEX.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FileSystem/FileoutputStreamEX.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interface/InterfaceEX.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interface/InterfaceEX1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tread/TreadOfRunnable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inheritance/InheritanceEX4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inheritance/inheritanceEX1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inheritance/inheritanceEX2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inheritance/inheritanceEX3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inheritance/superErrorEX.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polymorphism/UpCasting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polymorphism/polymorphism.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polymorphism/polymorphismEX.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polymorphism/polymorphismEX1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../problemSolving/src/Collection/CollectionEX1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../problemSolving/src/Collection/CollectionEX10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../problemSolving/src/Collection/CollectionEX11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../problemSolving/src/Collection/CollectionEX12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../problemSolving/src/Collection/CollectionEX13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../problemSolving/src/Collection/CollectionEX14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../problemSolving/src/Collection/CollectionEX15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../problemSolving/src/Collection/CollectionEX16.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../problemSolving/src/Collection/CollectionEX17.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../problemSolving/src/Collection/CollectionEX18.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../problemSolving/src/Collection/CollectionEX19.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../problemSolving/src/Collection/CollectionEX2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../problemSolving/src/Collection/CollectionEX20.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../problemSolving/src/Collection/CollectionEX21.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../problemSolving/src/Collection/CollectionEX22.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../problemSolving/src/Collection/CollectionEX23.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../problemSolving/src/Collection/CollectionEX24.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../problemSolving/src/Collection/CollectionEX3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../problemSolving/src/Collection/CollectionEX4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../problemSolving/src/Collection/CollectionEX5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../problemSolving/src/Collection/CollectionEX6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../problemSolving/src/Collection/CollectionEX7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../problemSolving/src/Collection/CollectionEX8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../problemSolving/src/Collection/CollectionEX9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../problemSolving/src/Stream/StreamEX1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../problemSolving/src/Stream/StreamEX10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../problemSolving/src/Stream/StreamEX11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../problemSolving/src/Stream/StreamEX12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../problemSolving/src/Stream/StreamEX13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../problemSolving/src/Stream/StreamEX2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../problemSolving/src/Stream/StreamEX3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../problemSolving/src/Stream/StreamEX4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../problemSolving/src/Stream/StreamEX5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../problemSolving/src/Stream/StreamEX6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../problemSolving/src/Stream/StreamEX7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../problemSolving/src/Stream/StreamEX8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../problemSolving/src/Stream/StreamEX9.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2McUavFLJJYE5JNZT3DitS7V1XG" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/leeheejae/Desktop/Java/src/Section1/Object&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="애플리케이션 수준" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="디폴트 작업">
+      <changelist id="60964e24-9008-4d61-9d93-852db69fbbf3" name="변경" comment="" />
+      <created>1678066430515</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1678066430515</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Effective/Lambda/NewFile.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

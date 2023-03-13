@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="91269075-a47a-48c2-9d7d-7cc5a7d1ff9b" name="변경" comment="">
+      <change afterPath="$PROJECT_DIR$/../Object/Abstract/abstractEX.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Object/Collection/HashMapEX.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Object/Collection/HashSetEX.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Object/Collection/HashSetEx1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Object/Collection/HashTableEX.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Object/Collection/TreeSetEX.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Object/Collection/TreeSetEX1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Object/Encapsulation/EncapsulationExpain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Object/Encapsulation/GetterSetterTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Object/Encapsulation/ImportEX.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Object/Encapsulation/pakageEX.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Object/Interface/InterfaceEX.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Object/Interface/InterfaceEX1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Object/inheritance/InheritanceEX4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Object/inheritance/inheritanceEX1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Object/inheritance/inheritanceEX2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Object/inheritance/inheritanceEX3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Object/inheritance/superErrorEX.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Object/polymorphism/UpCasting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Object/polymorphism/polymorphism.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Object/polymorphism/polymorphismEX.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Object/polymorphism/polymorphismEX1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2Mf8MZa5lCP4o2DdGmlBxF4qi19" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="애플리케이션 수준" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="디폴트 작업">
+      <changelist id="91269075-a47a-48c2-9d7d-7cc5a7d1ff9b" name="변경" comment="" />
+      <created>1678147228642</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1678147228642</updated>
+    </task>
+    <servers />
+  </component>
+</project>
